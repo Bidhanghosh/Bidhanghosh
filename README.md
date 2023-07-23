@@ -14,7 +14,9 @@
 
 - ⚡ Fun fact **I am ....**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+  LinkedIn:https://in.linkedin.com/in/bidhan-chandra-ghosh-54b40b224
+</h3>
 <p align="left">
   
  
