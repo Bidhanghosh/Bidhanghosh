@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Mysql,Power BI etc**
+- 🌱 I’m currently learning **Front-End Development**
 
 - 📫 How to reach me **bidhanghosh1729@gmail.com**
 
