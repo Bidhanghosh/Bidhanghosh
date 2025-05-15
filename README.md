@@ -23,7 +23,8 @@
 ### 📌 Projects
 
 - 🔸 **Sales Dashboard Project – Excel (Pivot Tables, Maps, Dynamic Charts)**  
-  [GitHub Repository](https://github.com/your-repo-link)  
+    [GitHub Repository](https://github.com/Bidhanghosh/DATA-ANALYSIS-PRACTICE)  
+
   - Built using **Chandoo.org techniques**  
   - Dynamic filtering, charts, and slicers for interactive sales analysis
 
